@@ -1,0 +1,3 @@
+from google.colab import drive
+drive.mount('/content/drive')
+#/content/drive/MyDrive/에 나의 구글드라이버가 마운트 됨.
